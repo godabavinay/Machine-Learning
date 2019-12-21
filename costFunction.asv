@@ -1,6 +1,0 @@
-% function to compute cost
-function J = costFunction(X, y, theta)
-
-J = ((1/(2*m)) * sum((X*th)));
-
-end
